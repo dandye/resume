@@ -82,7 +82,7 @@
   year: 2016
   month: August
   venuetype: Technical Report
-  venue: UW-CSE-TR-16-08-02, University of Washington CSE
+  venue: UW-CSE-16-08-02, University of Washington CSE
   url: http://www.cs.washington.edu/tr/2016/08/UW-CSE-16-08-02.pdf
   abstract: >
     Many classic protocols in the fault tolerant distributed computing
