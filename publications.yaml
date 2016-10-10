@@ -56,7 +56,7 @@
   month: November
   venuetype: Technical Report
   venue: UW-CSE-16-09-02, University of Washington CSE
-  url: http://syslab.cs.washington.edu/papers/nopaxos-tr16.pdf
+  url: http://www.cs.washington.edu/tr/2016/08/UW-CSE-16-09-02.pdf
   abstract: >
     Distributed applications use replication, implemented by protocols like
     Paxos, to ensure data availability and transparently mask server failures.
@@ -110,7 +110,8 @@
   month: May
   venuetype: Undergraduate Honors Thesis,
   venue: University of Texas at Austin
-  url: http://repositories.lib.utexas.edu/bitstream/handle/2152/29985/ellis_michael_thesis.pdf
+  # url: http://repositories.lib.utexas.edu/bitstream/handle/2152/29985/ellis_michael_thesis.pdf
+  url: http://apps.cs.utexas.edu/apps/sites/default/files/tech_reports/TR-2197.pdf
   abstract: >
     State machine replication is a technique used to guarantee the availability
     of a system even in the presence of faults. Agreement protocols are often
