@@ -2,14 +2,15 @@
 
 ~< block body >~
   \begin{enumerate}
+    \itemsep 1em
     ~< for pub in items >~
       \item{
         ~< if pub.url is defined >~
           ``\href{<< pub.url >>}{<< pub.title >>}.''
         ~< else >~
           ``<< pub.title >>.''
-        ~< endif >~
-        << pub.authors >>.
+        ~< endif >~\\
+        << pub.authors >>.\\
         << pub.venuetype >>
         << pub.venue >>%
         ~< if pub.venueshort is defined >~\ \mbox{(<< pub.venueshort>>)}~< endif >~%

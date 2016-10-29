@@ -22,6 +22,7 @@ sections:
         school: University of Washington
         major: "Ph.D. Computer Science"
         notes: "Advisors: Tom Anderson \\& Dan Ports"
+        # GPA: 4.0
 
       - date: August 2011--May 2015
         school: University of Texas at Austin
@@ -76,6 +77,11 @@ sections:
 
   - name: Honors
     subsections:
+      - name: Awards
+        subitems:
+          # Awarded for NOPaxos
+          - UW CSE Industrial Affiliates Madrona Prize Runner-Up, \textit{2016}
+
       - name: Graduate Fellowships
         subitems:
           - NSF Graduate Research Fellowship Honorable Mention, \textit{2016}
